@@ -1,2 +1,2 @@
 # batri-proforma
-its plugin wordpress
+its a wrdprss plugin
